@@ -16,7 +16,7 @@
 			<th scope="col">Puesto de votación</th>
 			<th scope="col">Mesa de votación</th>
 			<th scope="col">Ocupación</th>
-			<th scope="col">Usuario que lo registro</th>
+			<th scope="col">Usuario que lo registró</th>
 		</tr>
 	</thead>
 	<tbody>
