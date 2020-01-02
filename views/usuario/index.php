@@ -59,7 +59,7 @@
 </style>
 
 
-<link rel="stylesheet" href="<?=base_url?>assets/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="<?=base_url?>assets/bootstrap/dist/css/bootstrap.min.css" />
   <script src="<?=base_url?>assets/js/jquery.min.js"></script>
   <script src="<?=base_url?>helpers/main.js"></script>
   <script src="<?=base_url?>assets/bootstrap/dist/js/bootstrap.min.js"></script>
